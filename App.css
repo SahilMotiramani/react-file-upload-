@@ -1,0 +1,26 @@
+* {
+  font-size: 2.5vw;
+  font-family: Cambria;
+}
+
+body {
+  background-color: linen;
+}
+
+.nav {
+  background-color: black;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  margin: 2vw;
+}
+
+table {
+  width: 70%;
+}
+
+td {
+  text-align: center;
+}
